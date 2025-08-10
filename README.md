@@ -1,4 +1,4 @@
- #Fitness-traning-using-AI
+ # Fitness-traning-using-AI
 Utilized Google's MediaPipe pose detection model to extract joint positions from exercise videos uploaded via React Frontend. Implemented real-time chatbot feedback with quantized TinyLlama 1.1B LLM model from Hugging Face Transformers. Other features include Django user authentification, asynchronous pose detection display and chatbot feedback using asyncio library, peak detection algorithm from scipy for counting reps from pose landmarks, and matplotlib plots for displaying reps with concentric/eccentric time spent for each rep for measuring time under tension. Please note that not 
 
 ## Video Demo
@@ -67,4 +67,5 @@ Kaggle Dataset: https://www.kaggle.com/datasets/hasyimabdillah/workoutfitness-vi
 DeepSeek-R1 7B: https://huggingface.co/deepseek-ai/deepseek-llm-7b-chat
 
 TinyLlama 1.1B: https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0
+
 
